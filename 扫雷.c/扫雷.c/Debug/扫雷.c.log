@@ -1,0 +1,3 @@
+﻿  扫雷.c
+c:\users\刘恩博\source\repos\扫雷.c\扫雷.c\扫雷.c(121): warning C4715: “IsGameOver”: 不是所有的控件路径都返回值
+  扫雷.c.vcxproj -> C:\Users\刘恩博\source\repos\扫雷.c\Debug\扫雷.c.exe
